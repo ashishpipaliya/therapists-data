@@ -172,7 +172,7 @@
         "title": "HASHASH SINGH ISHAR",
         "country": "India",
         "address1": "Hazratbal Rd",
-        "suburb": "Kolkata",
+        "suburb": "-",
         "city": "Srinagar",
         "postcode": "190006",
         "province": "Jammu and Kashmir",
@@ -218,13 +218,13 @@
       "width": 3437
     },
     "userimage": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1621191333/gegnpgqtphnlboc6mumn.jpg",
-    "geopoint": [88.3459362, 22.5332356],
-    "latitude": "22.5332356",
+    "geopoint": [32.7319866, 74.8684572],
+    "latitude": "74.8684572",
     "loca": {
       "type": "MultiPoint",
-      "coordinates": [[88.3459362, 22.5332356]]
+      "coordinates": [[32.7319866, 74.8684572]]
     },
-    "longitude": "88.3459362",
+    "longitude": "32.7319866",
     "searchcity": "Srinagar",
     "searchcountry": "India",
     "searchprovince": "Jammu and Kashmir",
