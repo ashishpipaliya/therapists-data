@@ -1,0 +1,260 @@
+[
+  {
+    "_id": "w2prXwpdyQjNFd5QD",
+    "name": "Rajni",
+    "surname": "Sharma",
+    "professionaltitles": ["Allied Professional"],
+    "terms": true,
+    "isorganisation": false,
+    "logoImage": false,
+    "sliderStats": 842,
+    "emailStats": 2,
+    "suggestStats": 8,
+    "minisiteStats": 153,
+    "calendarClick": 0,
+    "showNumberStats": 51,
+    "emailOnNumberClick": true,
+    "hide5": true,
+    "hidePhone": false,
+    "layout": "one-page",
+    "colour": "1",
+    "hideSitePhoneNumber": true,
+    "isVerified": false,
+    "boostUser": false,
+    "approved": true,
+    "hideprofile": false,
+    "receiveemails": false,
+    "agegroups": [
+      "Adolescents",
+      "Adults",
+      "Groups",
+      "Individuals",
+      "Organisations",
+      "Parents"
+    ],
+    "distanceTherapy": true,
+    "fees": "Sliding scale",
+    "languages": ["English", "Hindi/Urdu"],
+    "licenses": [
+      {
+        "organisation": "University of Pune",
+        "category": "Dance Movement Therapy Practioner, UNESCO certified Therapeutic movement facilitator"
+      }
+    ],
+    "offices": [
+      {
+        "title": "Deepali Salil",
+        "country": "India",
+        "address1": "Talab Tillo",
+        "suburb": "Jammu",
+        "city": "Jammu",
+        "postcode": "180002",
+        "province": "Jammu and Kashmir",
+        "officenumber": "9419106146"
+      }
+    ],
+    "professionalname": "Dance Movement Therapy Practitioner",
+    "professionaltitlecustom": "Dance Therapy Practitioner",
+    "publicprivate": "private",
+    "qualifications": [
+      {
+        "degrees": "University of Pune",
+        "institution": "St. Mira's college",
+        "yearcompletion": 2021
+      }
+    ],
+    "scope": [
+      "Anxiety Disorders",
+      "Anxiety Disorders (Phobias)",
+      "Body Image",
+      "Creativity Issues",
+      "Depression",
+      "Individuation",
+      "Movement Difficulty",
+      "Trust Issues",
+      "Workplace Issues",
+      "Worry"
+    ],
+    "services": [
+      "Art Therapy",
+      "Awareness",
+      "Conflict Management",
+      "Counselling (General)",
+      "Group Therapy",
+      "Individual and Couple Therapy",
+      "Stress Management",
+      "Therapy (Personal Growth)",
+      "Wellness"
+    ],
+    "someinfo": "I believe that all of us have the ability to work through and heal by ourselves and by providing a safe and non-judgemental space this ability is enhanced and easily accessible for the client.",
+    "title": "Mrs",
+    "userimageCloudinary": {
+      "api_key": "139845823459914",
+      "asset_id": "c0a2d83f1d68efab9b07c80a66743731",
+      "bytes": 884982,
+      "created_at": "2021-12-06T08:46:08Z",
+      "etag": "72de4fe40ae3a5804d16654861c1e496",
+      "format": "jpg",
+      "height": 1980,
+      "original_filename": "DMT (1)",
+      "placeholder": false,
+      "public_id": "u3ti99k8oisi0oulwd9u",
+      "resource_type": "image",
+      "secure_url": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1638780368/u3ti99k8oisi0oulwd9u.jpg",
+      "signature": "1cef343c8bb0cbd5aafedb41a9c4eb6311cbd409",
+      "type": "upload",
+      "url": "http://res.cloudinary.com/dywkbcfp5/image/upload/v1638780368/u3ti99k8oisi0oulwd9u.jpg",
+      "version": 1638780368,
+      "version_id": "994659fd7730bfe7154e65faa41f8657",
+      "width": 1516
+    },
+    "userimage": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1638780368/u3ti99k8oisi0oulwd9u.jpg",
+    "geopoint": [72.8246291, 19.1435906],
+    "latitude": "19.1435906",
+    "loca": {
+      "type": "MultiPoint",
+      "coordinates": [[72.8246291, 19.1435906]]
+    },
+    "longitude": "72.8246291",
+    "searchcity": "Mumbai",
+    "searchcountry": "India",
+    "searchprovince": "Maharashtra",
+    "searchsuburb": "Mumbai",
+    "bodyfont": "Lato",
+    "customBlogTitle": "Blog",
+    "fontcolour": "#FFF",
+    "headingfont": "Slabo",
+    "hide3": true,
+    "publishSite": true,
+    "siteurl": "deepali-salil-mumbai-india",
+    "splashimage": "https://res.cloudinary.com/dywkbcfp5/image/upload/f_auto/v1542969244/fecevh41fgihtkrnop17.png",
+    "firstAvailabilityEmail": true,
+    "firstAvailabilityEmailDate": "2022-05-09T17:05:08.475Z",
+    "availabilityStatus": "limited",
+    "nextAvailabilityEmailDate": "2022-05-23T17:05:08.475Z",
+    "officeNumber": "9419106146"
+  },
+  {
+    "_id": "GLBwTDof5B59McoEC",
+    "name": "HASHASH SINGH ",
+    "surname": "ISHAR",
+    "professionaltitles": ["Licensed Clinical Psychologist"],
+    "terms": true,
+    "isorganisation": false,
+    "logoImage": false,
+    "sliderStats": 2781,
+    "emailStats": 13,
+    "suggestStats": 72,
+    "minisiteStats": 447,
+    "showNumberStats": 173,
+    "emailOnNumberClick": false,
+    "hide5": true,
+    "hidePhone": false,
+    "layout": "one-page",
+    "colour": "6",
+    "hideSitePhoneNumber": true,
+    "isVerified": true,
+    "approved": true,
+    "hideprofile": false,
+    "receiveemails": false,
+    "agegroups": ["All ages"],
+    "distanceTherapy": true,
+    "fees": "Direct payment",
+    "languages": ["Bengali", "English", "Gujarati", "Hindi/Urdu"],
+    "licenses": [
+      {
+        "organisation": "Rehabilitation Council Of India",
+        "category": "Clinical Psychologist"
+      }
+    ],
+    "offices": [
+      {
+        "title": "HASHASH SINGH ISHAR",
+        "country": "India",
+        "address1": "Hazratbal Rd",
+        "suburb": "Kolkata",
+        "city": "Srinagar",
+        "postcode": "190006",
+        "province": "Jammu and Kashmir",
+        "officenumber": "07889548195"
+      }
+    ],
+    "publicprivate": "private",
+    "qualifications": [
+      {
+        "degrees": "Mphil In Clinical Psychology",
+        "institution": "Institute Of Psychiatry",
+        "yearcompletion": 2018
+      }
+    ],
+    "services": [
+      "Assessment (Psychometric)",
+      "Counselling",
+      "Individual and Couple Therapy",
+      "Play Therapy",
+      "Psychology (Clinical)",
+      "Psychology (Neuropsychology)",
+      "Psychotherapy (Individual)",
+      "Training (Communication Skills)"
+    ],
+    "someinfo": "An experienced Clinical Psychologist, focuses on creating a safe, non-judgmental space, where in clients can talk about their experiences and concerns.",
+    "userimageCloudinary": {
+      "asset_id": "2ca54ce4fdcc2b36149df1367c2d0e59",
+      "bytes": 1303862,
+      "created_at": "2021-05-16T18:55:33Z",
+      "etag": "2f1eb81730a5544fc2795d94ab98f4c9",
+      "format": "jpg",
+      "height": 4276,
+      "original_filename": "BIO PICTURE",
+      "placeholder": false,
+      "public_id": "gegnpgqtphnlboc6mumn",
+      "resource_type": "image",
+      "secure_url": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1621191333/gegnpgqtphnlboc6mumn.jpg",
+      "signature": "f5ab63e1f25096b0cee28152e81655b0e36394ee",
+      "type": "upload",
+      "url": "http://res.cloudinary.com/dywkbcfp5/image/upload/v1621191333/gegnpgqtphnlboc6mumn.jpg",
+      "version": 1621191333,
+      "version_id": "83e1b556630dd7a1f8a607b7d4d30fe1",
+      "width": 3437
+    },
+    "userimage": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1621191333/gegnpgqtphnlboc6mumn.jpg",
+    "geopoint": [88.3459362, 22.5332356],
+    "latitude": "22.5332356",
+    "loca": {
+      "type": "MultiPoint",
+      "coordinates": [[88.3459362, 22.5332356]]
+    },
+    "longitude": "88.3459362",
+    "searchcity": "Srinagar",
+    "searchcountry": "India",
+    "searchprovince": "Jammu and Kashmir",
+    "searchsuburb": "Srinagar",
+    "bodyfont": "Lato",
+    "customBlogTitle": "Blog",
+    "fontcolour": "#FFF",
+    "headingfont": "Lato",
+    "hide3": true,
+    "publishSite": true,
+    "siteurl": "ridhi-thaker-kolkata-in",
+    "splashimage": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1586377487/kkic0rnobg2eyosg5fdd.jpg",
+    "showregnumber": true,
+    "hours": [
+      {
+        "day": "Monday-Friday",
+        "hourstart": "11:00",
+        "hourend": "07:00"
+      }
+    ],
+    "backgroundimage": "0",
+    "seenPhoneNumber": ["nhLzGx9ggN8edD9rh"],
+    "boostUser": false,
+    "firstAvailabilityEmail": true,
+    "firstAvailabilityEmailDate": "2022-05-01T10:21:22.102Z",
+    "availabilityStatus": "available",
+    "nextAvailabilityEmailDate": "2022-05-29T10:21:22.102Z",
+    "dist": 4759.7827464535385,
+    "officeNumber": "07889548195"
+  }
+  
+
+]
