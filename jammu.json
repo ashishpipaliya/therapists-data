@@ -254,6 +254,248 @@
     "nextAvailabilityEmailDate": "2022-05-29T10:21:22.102Z",
     "dist": 4759.7827464535385,
     "officeNumber": "07889548195"
+  },
+  {
+    "_id": "GLBwTDof5B59McoEC",
+    "name": "KHUSHAL",
+    "surname": "SHARMA",
+    "professionaltitles": ["Licensed Clinical Psychologist"],
+    "terms": true,
+    "isorganisation": false,
+    "logoImage": false,
+    "sliderStats": 2781,
+    "emailStats": 13,
+    "suggestStats": 72,
+    "minisiteStats": 447,
+    "showNumberStats": 173,
+    "emailOnNumberClick": false,
+    "hide5": true,
+    "hidePhone": false,
+    "layout": "one-page",
+    "colour": "6",
+    "hideSitePhoneNumber": true,
+    "isVerified": true,
+    "approved": true,
+    "hideprofile": false,
+    "receiveemails": false,
+    "agegroups": ["All ages"],
+    "distanceTherapy": true,
+    "fees": "Direct payment",
+    "languages": ["Bengali", "English", "Gujarati", "Hindi/Urdu"],
+    "licenses": [
+      {
+        "organisation": "Rehabilitation Council Of India",
+        "category": "Clinical Psychologist"
+      }
+    ],
+    "offices": [
+      {
+        "title": "KHUSHAL SHARMA",
+        "country": "India",
+        "address1": "La nizamuddin road",
+        "suburb": "-",
+        "city": "Srinagar",
+        "postcode": "190007",
+        "province": "Jammu and Kashmir",
+        "officenumber": "07889512345"
+      }
+    ],
+    "publicprivate": "private",
+    "qualifications": [
+      {
+        "degrees": "Mphil In Clinical Psychology",
+        "institution": "Institute Of Psychiatry",
+        "yearcompletion": 2018
+      }
+    ],
+    "services": [
+      "Assessment (Psychometric)",
+      "Counselling",
+      "Individual and Couple Therapy",
+      "Play Therapy",
+      "Psychology (Clinical)",
+      "Psychology (Neuropsychology)",
+      "Psychotherapy (Individual)",
+      "Training (Communication Skills)"
+    ],
+    "someinfo": "An experienced Clinical Psychologist, focuses on creating a safe, non-judgmental space, where in clients can talk about their experiences and concerns.",
+    "userimageCloudinary": {
+      "asset_id": "2ca54ce4fdcc2b36149df1367c2d0e59",
+      "bytes": 1303862,
+      "created_at": "2021-05-16T18:55:33Z",
+      "etag": "2f1eb81730a5544fc2795d94ab98f4c9",
+      "format": "jpg",
+      "height": 4276,
+      "original_filename": "BIO PICTURE",
+      "placeholder": false,
+      "public_id": "gegnpgqtphnlboc6mumn",
+      "resource_type": "image",
+      "secure_url": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1621191333/gegnpgqtphnlboc6mumn.jpg",
+      "signature": "f5ab63e1f25096b0cee28152e81655b0e36394ee",
+      "type": "upload",
+      "url": "http://res.cloudinary.com/dywkbcfp5/image/upload/v1621191333/gegnpgqtphnlboc6mumn.jpg",
+      "version": 1621191333,
+      "version_id": "83e1b556630dd7a1f8a607b7d4d30fe1",
+      "width": 3437
+    },
+    "userimage": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1621191333/gegnpgqtphnlboc6mumn.jpg",
+    "geopoint": [32.7319866, 74.8684572],
+    "latitude": "74.8684572",
+    "loca": {
+      "type": "MultiPoint",
+      "coordinates": [[32.7319866, 74.8684572]]
+    },
+    "longitude": "32.7319866",
+    "searchcity": "Srinagar",
+    "searchcountry": "India",
+    "searchprovince": "Jammu and Kashmir",
+    "searchsuburb": "Srinagar",
+    "bodyfont": "Lato",
+    "customBlogTitle": "Blog",
+    "fontcolour": "#FFF",
+    "headingfont": "Lato",
+    "hide3": true,
+    "publishSite": true,
+    "siteurl": "ridhi-thaker-kolkata-in",
+    "splashimage": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1586377487/kkic0rnobg2eyosg5fdd.jpg",
+    "showregnumber": true,
+    "hours": [
+      {
+        "day": "Monday-Friday",
+        "hourstart": "11:00",
+        "hourend": "07:00"
+      }
+    ],
+    "backgroundimage": "0",
+    "seenPhoneNumber": ["nhLzGx9ggN8edD9rh"],
+    "boostUser": false,
+    "firstAvailabilityEmail": true,
+    "firstAvailabilityEmailDate": "2022-05-01T10:21:22.102Z",
+    "availabilityStatus": "available",
+    "nextAvailabilityEmailDate": "2022-05-29T10:21:22.102Z",
+    "dist": 4759.7827464535385,
+    "officeNumber": "07889548195"
+  },
+  {
+    "_id": "GLBwTDof5B59McoEC",
+    "name": "MITUL",
+    "surname": "VAGHANI",
+    "professionaltitles": ["Licensed Clinical Psychologist"],
+    "terms": true,
+    "isorganisation": false,
+    "logoImage": false,
+    "sliderStats": 2781,
+    "emailStats": 13,
+    "suggestStats": 72,
+    "minisiteStats": 447,
+    "showNumberStats": 173,
+    "emailOnNumberClick": false,
+    "hide5": true,
+    "hidePhone": false,
+    "layout": "one-page",
+    "colour": "6",
+    "hideSitePhoneNumber": true,
+    "isVerified": true,
+    "approved": true,
+    "hideprofile": false,
+    "receiveemails": false,
+    "agegroups": ["All ages"],
+    "distanceTherapy": true,
+    "fees": "Direct payment",
+    "languages": ["Bengali", "English", "Gujarati", "Hindi/Urdu"],
+    "licenses": [
+      {
+        "organisation": "Rehabilitation Council Of India",
+        "category": "Clinical Psychologist"
+      }
+    ],
+    "offices": [
+      {
+        "title": "MITUL VAGHANI",
+        "country": "India",
+        "address1": "Hazral Rd",
+        "suburb": "-",
+        "city": "Srinagar",
+        "postcode": "190008",
+        "province": "Jammu and Kashmir",
+        "officenumber": "07889548195"
+      }
+    ],
+    "publicprivate": "private",
+    "qualifications": [
+      {
+        "degrees": "Mphil In Clinical Psychology",
+        "institution": "Institute Of Psychiatry",
+        "yearcompletion": 2018
+      }
+    ],
+    "services": [
+      "Assessment (Psychometric)",
+      "Counselling",
+      "Individual and Couple Therapy",
+      "Play Therapy",
+      "Psychology (Clinical)",
+      "Psychology (Neuropsychology)",
+      "Psychotherapy (Individual)",
+      "Training (Communication Skills)"
+    ],
+    "someinfo": "An experienced Clinical Psychologist, focuses on creating a safe, non-judgmental space, where in clients can talk about their experiences and concerns.",
+    "userimageCloudinary": {
+      "asset_id": "2ca54ce4fdcc2b36149df1367c2d0e59",
+      "bytes": 1303862,
+      "created_at": "2021-05-16T18:55:33Z",
+      "etag": "2f1eb81730a5544fc2795d94ab98f4c9",
+      "format": "jpg",
+      "height": 4276,
+      "original_filename": "BIO PICTURE",
+      "placeholder": false,
+      "public_id": "gegnpgqtphnlboc6mumn",
+      "resource_type": "image",
+      "secure_url": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1621191333/gegnpgqtphnlboc6mumn.jpg",
+      "signature": "f5ab63e1f25096b0cee28152e81655b0e36394ee",
+      "type": "upload",
+      "url": "http://res.cloudinary.com/dywkbcfp5/image/upload/v1621191333/gegnpgqtphnlboc6mumn.jpg",
+      "version": 1621191333,
+      "version_id": "83e1b556630dd7a1f8a607b7d4d30fe1",
+      "width": 3437
+    },
+    "userimage": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1621191333/gegnpgqtphnlboc6mumn.jpg",
+    "geopoint": [32.7319866, 74.8684572],
+    "latitude": "74.8684572",
+    "loca": {
+      "type": "MultiPoint",
+      "coordinates": [[32.7319866, 74.8684572]]
+    },
+    "longitude": "32.7319866",
+    "searchcity": "Srinagar",
+    "searchcountry": "India",
+    "searchprovince": "Jammu and Kashmir",
+    "searchsuburb": "Srinagar",
+    "bodyfont": "Lato",
+    "customBlogTitle": "Blog",
+    "fontcolour": "#FFF",
+    "headingfont": "Lato",
+    "hide3": true,
+    "publishSite": true,
+    "siteurl": "ridhi-thaker-kolkata-in",
+    "splashimage": "https://res.cloudinary.com/dywkbcfp5/image/upload/v1586377487/kkic0rnobg2eyosg5fdd.jpg",
+    "showregnumber": true,
+    "hours": [
+      {
+        "day": "Monday-Friday",
+        "hourstart": "11:00",
+        "hourend": "07:00"
+      }
+    ],
+    "backgroundimage": "0",
+    "seenPhoneNumber": ["nhLzGx9ggN8edD9rh"],
+    "boostUser": false,
+    "firstAvailabilityEmail": true,
+    "firstAvailabilityEmailDate": "2022-05-01T10:21:22.102Z",
+    "availabilityStatus": "available",
+    "nextAvailabilityEmailDate": "2022-05-29T10:21:22.102Z",
+    "dist": 4759.7827464535385,
+    "officeNumber": "07889548195"
   }
   
 
